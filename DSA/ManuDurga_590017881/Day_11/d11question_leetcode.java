@@ -27,5 +27,5 @@ public class d11question_leetcode {
         System.out.println("New String");
         String s = sc.nextLine(); 
         if(Arrays.toString(commonArray(s)).equals(Arrays.toString(commonArray(S)))){System.out.println("True");}
-        else{System.out.println(false);}
+        else{System.out.println("False");}
     }}
